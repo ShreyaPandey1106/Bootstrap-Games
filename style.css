@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+
+.hero{
+    border: none;
+    height: 78vh;
+    background-image: url(./Images/main.jpg);
+    background-size: cover;
+    background-position-y: 20%;
+}
+.test{
+    border: 2px solid red;
+}
